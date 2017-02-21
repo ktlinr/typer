@@ -42,3 +42,21 @@ header {
   background: #ebebeb;
   height: 1500px;
 }
+/* table */
+table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+th, td {
+	padding: 10px;
+}
+.table {
+	position: absolute;
+	top: 200px;
+}
+.selector {
+	position: absolute;
+	top: 150px;
+}
+
+
